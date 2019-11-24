@@ -2,7 +2,7 @@
 Create REST API in node.js
 
 Please check the below link for step by step tutorial
-**http://www.cluemediator.com/rest-api-in-nodejs**
+**http://www.cluemediator.com/create-rest-api-in-node-js**
 
 ## Setup
 Follow below steps to run project
